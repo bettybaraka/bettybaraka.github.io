@@ -1,0 +1,47 @@
+.header {
+    background-color: #008000;
+    overflow: hidden;
+    color: #ffffff;
+    padding-left: 30px;
+}
+
+.container {
+    padding-left: 30px;
+}
+
+input {
+    padding: 16px 14px;
+    font-size: 18px;
+}
+
+input[type=submit] {
+    background-color: #008000;
+    border-color: #008000;
+    color: #ffffff;
+}
+
+.title {
+    font-size: 24px;
+}
+
+.list {
+    margin-bottom: 40px;
+}
+
+.list-item {
+    width: 50%;
+    margin-bottom: 12px;
+}
+
+.delete {
+    float: right;
+    margin-left: 50px;
+    color: #008000;
+}
+
+a {
+    padding: 16px 14px;
+    background-color: #9c2323;
+    color: #ffffff;
+    /* margin-top: 40px; */
+}
